@@ -4,5 +4,4 @@ my:
   name:
     is: Claire
     
-lucky:
-  word: Hey World!
+lucky-word: Hey World!
