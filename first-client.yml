@@ -5,3 +5,5 @@ my:
     is: Claire
     
 lucky-word: Hey World!
+
+this-is-dynamic-prop: dynamic
